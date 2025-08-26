@@ -1,19 +1,5 @@
 [
   {
-    "id": "ial-1",
-    "nombre": "Guillermo Morales Sanchez",
-    "cargo": "Alcalde",
-    "dependencia": "Municipalidad Distrital De San Miguel De El Faique",
-    "categoria": "IAL-DIS 2024",
-    "email": "",
-    "telefono": "927259422",
-    "whatsapp": "+51927259422",
-    "foto": "",
-    "periodo": "2024",
-    "ubicacion": "",
-    "orden": 1
-  },
-  {
     "id": "ial-2",
     "nombre": "Panfilo Aguirre Bobadilla",
     "cargo": "Primer Regidor",
@@ -578,12 +564,12 @@
     "nombre": "Miguel Angel Ticliahuanca Zurita",
     "cargo": "Imagen Institucional",
     "dependencia": "Imagen Institucional",
-    "categoria": "Municipalidad",
+    "categoria": "IAL-DIS 2024",
     "email": "",
     "telefono": "965030000",
     "whatsapp": "+51965030000",
     "foto": "",
-    "periodo": "2024",
+    "periodo": "2025",
     "ubicacion": "",
     "orden": 48
   },

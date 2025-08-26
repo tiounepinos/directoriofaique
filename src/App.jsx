@@ -3,7 +3,7 @@ import React, { useMemo, useState, useEffect } from 'react'
 const initialOficiales = [
   {
     id: "alc-01",
-    nombre: "(Completar) Nombre del Alcalde",
+    nombre: "Guillermo Morales Sanchez",
     cargo: "Alcalde Distrital",
     dependencia: "Despacho de Alcaldía",
     categoria: "Autoridades Ediles",
