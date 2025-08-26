@@ -169,7 +169,7 @@ export default function App() {
             </h1>
           </div>
           <p className="mt-2 max-w-2xl text-white/90">
-            Municipalidad Distrital de San Miguel de El Faique · Incluye directorio IAL-DIS 2024 (si el JSON está presente)
+            Directorio de Autoridades del distrito de San Miguel de El Faique
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <button onClick={() => window.print()} className="rounded-2xl bg-white/10 px-4 py-2 text-sm backdrop-blur hover:bg-white/20 transition">Imprimir</button>
